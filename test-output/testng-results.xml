@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="89269" started-at="2022-03-22T23:11:45 IST" finished-at="2022-03-22T23:13:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="89269" started-at="2022-03-22T23:11:45 IST" finished-at="2022-03-22T23:13:14 IST">
+      <class name="com.clinigen.test.DemographyPfic">
+        <test-method status="PASS" signature="preConditionSetUp()[pri:0, instance:com.clinigen.test.DemographyPfic@1efee8e7]" name="preConditionSetUp" is-config="true" duration-ms="4148" started-at="2022-03-22T23:11:40 IST" finished-at="2022-03-22T23:11:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditionSetUp -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.clinigen.test.DemographyPfic@1efee8e7]" name="preCondition" is-config="true" duration-ms="9189" started-at="2022-03-22T23:11:45 IST" finished-at="2022-03-22T23:11:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="baseLineDemography()[pri:1, instance:com.clinigen.test.DemographyPfic@1efee8e7]" name="baseLineDemography" duration-ms="80031" started-at="2022-03-22T23:11:54 IST" finished-at="2022-03-22T23:13:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseLineDemography -->
+        <test-method status="PASS" signature="getStatus(org.testng.ITestResult)[pri:0, instance:com.clinigen.test.DemographyPfic@1efee8e7]" name="getStatus" is-config="true" duration-ms="7" started-at="2022-03-22T23:13:14 IST" finished-at="2022-03-22T23:13:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=baseLineDemography status=SUCCESS method=DemographyPfic.baseLineDemography()[pri:1, instance:com.clinigen.test.DemographyPfic@1efee8e7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.clinigen.test.DemographyPfic@1efee8e7]" name="close" is-config="true" duration-ms="1" started-at="2022-03-22T23:13:14 IST" finished-at="2022-03-22T23:13:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.clinigen.test.DemographyPfic@1efee8e7]" name="quit" is-config="true" duration-ms="1" started-at="2022-03-22T23:13:14 IST" finished-at="2022-03-22T23:13:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.clinigen.test.DemographyPfic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
